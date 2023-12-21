@@ -4,7 +4,7 @@ This project implements a book recommendation algorithm using K-Nearest Neighbor
 
 ## Getting Started
 
-1. Open the [Google Colab notebook](<your_colab_notebook_link>).
+1. Open the [Google Colab notebook](<https://colab.research.google.com/drive/1BqdT8K2120ELJxX91xyzlMcvkpz2kTZs#scrollTo=ytu_Rx73ptin>).
 2. Create a copy in your account or locally.
 3. Run each cell sequentially.
 
